@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [(https://staging.d3i3nofiabbwxw.amplifyapp.com/)]((https://staging.d3i3nofiabbwxw.amplifyapp.com/))
+- 👨‍💻 All of my projects are available at [(https://staging.d3i3nofiabbwxw.amplifyapp.com/)](https://staging.d3i3nofiabbwxw.amplifyapp.com/)
 
 - 💬 Ask me about **react, javascript, php**
 
 - 📫 How to reach me **sanketpehere234@gmail.com**
 
-- 📄 Know about my experiences [(https://staging.d3i3nofiabbwxw.amplifyapp.com/)]((https://staging.d3i3nofiabbwxw.amplifyapp.com/))
+- 📄 Know about my experiences [(https://staging.d3i3nofiabbwxw.amplifyapp.com/)](https://staging.d3i3nofiabbwxw.amplifyapp.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
